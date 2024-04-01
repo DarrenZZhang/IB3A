@@ -29,4 +29,4 @@ We carry out backdoor attack for three cross-modal hashing methods, including DC
 * Deep Adversarial Discrete Hashing (DADH): https://github.com/Zjut-MultimediaPlus/DADH
 
 ## Citation
-Coming soon...
+T. Wang, F. Li, L. Zhu, J. Li, Z. Zhang, H. T. Shen, Invisible Black-Box Backdoor Attack against Deep Cross-Modal Hashing Retrieval, ACM Transactions on Information Systems (TOIS), xx(x): x–xx, 2024.
